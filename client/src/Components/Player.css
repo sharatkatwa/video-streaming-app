@@ -1,0 +1,12 @@
+.player-container {
+  margin: 4rem 1rem 1rem 1rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+.player {
+  background-color: #abcdef;
+  height: 100vh;
+}
+.other-videos {
+  background-color: #de2394;
+}

@@ -1,0 +1,49 @@
+.signup-container {
+  margin: 4rem 1rem 1rem 1rem;
+}
+.form-container {
+  display: flex;
+  margin-top: 2rem;
+  flex-direction: column;
+  align-items: center;
+}
+.input-div {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+.input {
+  background-color: transparent;
+  border: solid 2px #fff;
+  border-radius: 1rem;
+  width: 50vw;
+  height: 2rem;
+  caret-color: #fff;
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+.input,
+select,
+textarea {
+  color: #fff;
+  font-size: 1rem;
+}
+.input:focus {
+  outline: none;
+}
+
+.submit-button {
+  background-color: #fff;
+  border: none;
+  border-radius: 10px;
+  height: 2.5rem;
+  width: 6rem;
+  margin-left: 46%;
+  margin-top: 1rem;
+  font-weight: 600;
+}
+.submit-button:hover {
+  background-color: transparent;
+  border: solid #fff;
+  color: #fff;
+}

@@ -1,0 +1,27 @@
+.upload-form-container {
+  margin: 4rem 1rem 1rem 1rem;
+}
+.heading-box {
+  margin-left: 55%;
+}
+.video-input {
+  display: none;
+}
+.upload-label {
+  cursor: pointer;
+}
+
+.upload-div {
+  padding: 5%;
+  border: solid #ffffff;
+  border-radius: 1rem;
+  width: 41vw;
+}
+.upload-label {
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+.input-description {
+  max-width: 50vw;
+}

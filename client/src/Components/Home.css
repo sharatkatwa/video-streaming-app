@@ -1,0 +1,23 @@
+.home-container {
+  margin: 4rem 1rem 1rem 1rem;
+}
+
+.upload-icon {
+  position: fixed;
+  bottom: 2rem;
+  left: 2rem;
+  margin: auto;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+.upload-icon:hover {
+  transform: scale(1.2);
+}
+.video-card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* flex-wrap: wrap; */
+  /* justify-content: space-between; */
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;600');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+
+:root {
+  font-family: 'Golos Text', sans-serif;
+  color: #fff;
+  background-color: #11001c;
+}
+
+.main-heading-container {
+  text-align: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.heading-box {
+  width: 60px;
+  margin-top: -3vh;
+  margin-left: 50vw;
+  border-bottom: solid 3px #fff;
+}
